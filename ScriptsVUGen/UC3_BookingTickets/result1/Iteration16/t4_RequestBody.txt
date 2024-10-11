@@ -1,0 +1,2 @@
+"userSession=140025.736249494HcAcfHDpiAiDDDDDtDcVfpttcif&username=kratos&password=godofwar&logi"
+"n.x=41&login.y=7&JSFormSubmit=off"

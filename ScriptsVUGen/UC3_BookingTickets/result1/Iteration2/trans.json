@@ -1,0 +1,42 @@
+[
+    {
+        "transactionName": "go_to_web_tours",
+        "rawStartTime": 1728617623635,
+        "rawEndTime": 1728617624065
+    },
+    {
+        "transactionName": "login",
+        "rawStartTime": 1728617624066,
+        "rawEndTime": 1728617624294
+    },
+    {
+        "transactionName": "go_to_flights",
+        "rawStartTime": 1728617624297,
+        "rawEndTime": 1728617624865
+    },
+    {
+        "transactionName": "find_flight",
+        "rawStartTime": 1728617624882,
+        "rawEndTime": 1728617626549
+    },
+    {
+        "transactionName": "choosing a flight",
+        "rawStartTime": 1728617626565,
+        "rawEndTime": 1728617626754
+    },
+    {
+        "transactionName": "booking",
+        "rawStartTime": 1728617626770,
+        "rawEndTime": 1728617629680
+    },
+    {
+        "transactionName": "logout",
+        "rawStartTime": 1728617629696,
+        "rawEndTime": 1728617629882
+    },
+    {
+        "transactionName": "UC3_BookingTickets",
+        "rawStartTime": 1728617623619,
+        "rawEndTime": 1728617629887
+    }
+]

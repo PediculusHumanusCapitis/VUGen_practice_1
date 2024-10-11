@@ -1,0 +1,32 @@
+[
+    {
+        "transactionName": "go_to_web_tours",
+        "rawStartTime": 1728613109639,
+        "rawEndTime": 1728613110132
+    },
+    {
+        "transactionName": "go_to_registration",
+        "rawStartTime": 1728613110179,
+        "rawEndTime": 1728613110463
+    },
+    {
+        "transactionName": "user_data_entry",
+        "rawStartTime": 1728613110479,
+        "rawEndTime": 1728613110875
+    },
+    {
+        "transactionName": "click_continue",
+        "rawStartTime": 1728613110891,
+        "rawEndTime": 1728613111178
+    },
+    {
+        "transactionName": "logout",
+        "rawStartTime": 1728613111194,
+        "rawEndTime": 1728613111369
+    },
+    {
+        "transactionName": "UC6_RegistrationNewUsers",
+        "rawStartTime": 1728613109623,
+        "rawEndTime": 1728613111385
+    }
+]

@@ -1,0 +1,32 @@
+[
+    {
+        "transactionName": "go_to_web_tours",
+        "rawStartTime": 1728615317647,
+        "rawEndTime": 1728615318054
+    },
+    {
+        "transactionName": "login",
+        "rawStartTime": 1728615318054,
+        "rawEndTime": 1728615318254
+    },
+    {
+        "transactionName": "go_to_itinerary",
+        "rawStartTime": 1728615318262,
+        "rawEndTime": 1728615318626
+    },
+    {
+        "transactionName": "delete_reservation",
+        "rawStartTime": 1728615318642,
+        "rawEndTime": 1728615319182
+    },
+    {
+        "transactionName": "logout",
+        "rawStartTime": 1728615319198,
+        "rawEndTime": 1728615319408
+    },
+    {
+        "transactionName": "UC5_DeletingReservation",
+        "rawStartTime": 1728615317631,
+        "rawEndTime": 1728615319417
+    }
+]

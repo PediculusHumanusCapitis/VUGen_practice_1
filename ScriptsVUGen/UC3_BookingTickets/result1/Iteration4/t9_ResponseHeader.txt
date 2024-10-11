@@ -1,0 +1,10 @@
+HTTP/1.1 200 OK
+Date: Fri, 11 Oct 2024 03:34:02 GMT
+Server: Apache/2.2.21 (Win32)
+Expires: Thu, 10 Oct 2024 03:34:02 GMT
+Set-Cookie: MTUserInfo=firstName&Aragorn&username&aragorn&address2&Gondor&hash&46&address1&Rivendell&lastName&Son%20of%20Arathorn%0A; path=/
+Keep-Alive: timeout=5, max=88
+Connection: Keep-Alive
+Transfer-Encoding: chunked
+Content-Type: text/html; charset=ISO-8859-1
+

@@ -1,0 +1,9 @@
+-+
+-DCCI
+-D_IDA_XL
+-DWINNT
+-ID:\VUGenPract\ScriptsVUGen\UC2_SearchTicket
+-IC:\Program Files (x86)\HPE\LoadRunner\include
+-ed:\vugenpract\scriptsvugen\uc2_searchticket\\logfile.log
+d:\vugenpract\scriptsvugen\uc2_searchticket\\combined_UC2_SearchTicket.c
+d:\vugenpract\scriptsvugen\uc2_searchticket\\pre_cci.c

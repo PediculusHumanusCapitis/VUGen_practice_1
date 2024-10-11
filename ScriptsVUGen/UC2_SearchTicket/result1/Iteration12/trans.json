@@ -1,0 +1,32 @@
+[
+    {
+        "transactionName": "go_to_web_tours",
+        "rawStartTime": 1728614091993,
+        "rawEndTime": 1728614092497
+    },
+    {
+        "transactionName": "login",
+        "rawStartTime": 1728614092498,
+        "rawEndTime": 1728614092736
+    },
+    {
+        "transactionName": "go_to_flights",
+        "rawStartTime": 1728614092740,
+        "rawEndTime": 1728614093102
+    },
+    {
+        "transactionName": "find_flight",
+        "rawStartTime": 1728614093118,
+        "rawEndTime": 1728614094771
+    },
+    {
+        "transactionName": "logout",
+        "rawStartTime": 1728614094787,
+        "rawEndTime": 1728614094998
+    },
+    {
+        "transactionName": "UC2_SearchTicket",
+        "rawStartTime": 1728614091979,
+        "rawEndTime": 1728614095008
+    }
+]

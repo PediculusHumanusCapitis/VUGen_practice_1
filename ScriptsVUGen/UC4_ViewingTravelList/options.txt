@@ -1,0 +1,9 @@
+-+
+-DCCI
+-D_IDA_XL
+-DWINNT
+-ID:\VUGenPract\ScriptsVUGen\UC4_ViewingTravelList
+-IC:\Program Files (x86)\HPE\LoadRunner\include
+-ed:\vugenpract\scriptsvugen\uc4_viewingtravellist\\logfile.log
+d:\vugenpract\scriptsvugen\uc4_viewingtravellist\\combined_UC4_ViewingTravelList.c
+d:\vugenpract\scriptsvugen\uc4_viewingtravellist\\pre_cci.c

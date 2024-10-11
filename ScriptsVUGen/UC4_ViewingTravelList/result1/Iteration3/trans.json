@@ -1,0 +1,27 @@
+[
+    {
+        "transactionName": "go_to_web_tours",
+        "rawStartTime": 1728614555587,
+        "rawEndTime": 1728614556026
+    },
+    {
+        "transactionName": "login",
+        "rawStartTime": 1728614556027,
+        "rawEndTime": 1728614556241
+    },
+    {
+        "transactionName": "go_to_itinerary",
+        "rawStartTime": 1728614556253,
+        "rawEndTime": 1728614556650
+    },
+    {
+        "transactionName": "logout",
+        "rawStartTime": 1728614556666,
+        "rawEndTime": 1728614556844
+    },
+    {
+        "transactionName": "UC4_ViewingTravelList",
+        "rawStartTime": 1728614555572,
+        "rawEndTime": 1728614556856
+    }
+]

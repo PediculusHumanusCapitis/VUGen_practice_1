@@ -1,0 +1,4 @@
+d:\vugenpract\scriptsvugen\uc5_deletingreservation\\pre_cci.c: ..\\..\\Transactions\\common_lib.h:46: warning: unrecognized character escape sequence `\.'
+d:\vugenpract\scriptsvugen\uc5_deletingreservation\\pre_cci.c: ..\\..\\Transactions\\common_lib.h:48: warning: unrecognized character escape sequence `\='
+d:\vugenpract\scriptsvugen\uc5_deletingreservation\\pre_cci.c: ..\\..\\Transactions\\common_lib.h:113: warning: missing return value
+d:\vugenpract\scriptsvugen\uc5_deletingreservation\\pre_cci.c: ..\\..\\Transactions\\common_lib.h:134: warning: missing return value

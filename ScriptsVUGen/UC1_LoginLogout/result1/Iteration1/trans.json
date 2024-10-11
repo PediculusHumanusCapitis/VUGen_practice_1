@@ -1,0 +1,22 @@
+[
+    {
+        "transactionName": "go_to_web_tours",
+        "rawStartTime": 1728614008883,
+        "rawEndTime": 1728614009694
+    },
+    {
+        "transactionName": "login",
+        "rawStartTime": 1728614009709,
+        "rawEndTime": 1728614010028
+    },
+    {
+        "transactionName": "logout",
+        "rawStartTime": 1728614010044,
+        "rawEndTime": 1728614010314
+    },
+    {
+        "transactionName": "UC1_LoginLogout",
+        "rawStartTime": 1728614008867,
+        "rawEndTime": 1728614010331
+    }
+]
