@@ -14,6 +14,6 @@ Accept-Language: ru-RU,ru;q=0.8,en-US;q=0.5,en;q=0.3
 Accept: */*
 Connection: Keep-Alive
 Host: localhost:1080
-Cookie: MSO=SID&1728615335; MTUserInfo=firstName&Kratos&address2&Norse%20Realms&username&kratos&hash&19&lastName&Spartan%0A&address1&Wild%20Woods&creditCard&&expDate&%0A
-Content-Length: 80
+Cookie: MSO=SID&1730041477; MTUserInfo=firstName&Kratos&address2&Norse%20Realms&username&kratos&hash&19&lastName&Spartan%0A&address1&Wild%20Woods&creditCard&&expDate&%0A
+Content-Length: 350
 

@@ -11,5 +11,5 @@ Accept-Language: ru-RU,ru;q=0.8,en-US;q=0.5,en;q=0.3
 Accept: */*
 Connection: Keep-Alive
 Host: localhost:1080
-Cookie: MSO=SID&1728614095; MTUserInfo=firstName&Goku&address2&Earth&username&goku&hash&21&lastName&Saiyan%0A&address1&Mount%20Paozu&creditCard&&expDate&%0A
+Cookie: MSO=SID&1730037912; MTUserInfo=firstName&Aloy&address2&Nora%20Tribe&username&aloy&hash&25&lastName&Huntress%0A&address1&Embrace&creditCard&&expDate&%0A
 

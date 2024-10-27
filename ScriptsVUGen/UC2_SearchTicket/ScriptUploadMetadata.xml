@@ -18,6 +18,8 @@
     <FileEntry Name="178825300440.idx" Filter="1" />
     <FileEntry Name="17882530044_3b1.169.idx" Filter="1" />
     <FileEntry Name="17882530044_YD8.805.idx" Filter="1" />
+    <FileEntry Name="195382331440.idx" Filter="1" />
+    <FileEntry Name="62948975440.idx" Filter="1" />
     <FileEntry Name="84083348440.idx" Filter="1" />
     <FileEntry Name="Bookmarks.xml" Filter="1" />
     <FileEntry Name="Breakpoints.xml" Filter="1" />
@@ -31,6 +33,7 @@
     <FileEntry Name="options.txt" Filter="1" />
     <FileEntry Name="output.bak" Filter="1" />
     <FileEntry Name="output.txt" Filter="1" />
+    <FileEntry Name="OutputColoringDatabase.json" Filter="1" />
     <FileEntry Name="ReplaySummaryReport.xml" Filter="1" />
     <FileEntry Name="ScriptUploadMetadata.xml" Filter="1" />
     <FileEntry Name="SeatPref.dat" Filter="1" />

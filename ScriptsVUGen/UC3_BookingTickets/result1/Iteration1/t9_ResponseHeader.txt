@@ -1,7 +1,7 @@
 HTTP/1.1 200 OK
-Date: Fri, 11 Oct 2024 03:33:43 GMT
+Date: Sun, 27 Oct 2024 14:44:25 GMT
 Server: Apache/2.2.21 (Win32)
-Expires: Thu, 10 Oct 2024 03:33:43 GMT
+Expires: Sat, 26 Oct 2024 14:44:25 GMT
 Set-Cookie: MTUserInfo=firstName&Dragonborn&username&dragonborn&address2&Whiterun&hash&46&address1&Throat%20of%20the%20World&lastName&Targaryen%0A; path=/
 Keep-Alive: timeout=5, max=88
 Connection: Keep-Alive

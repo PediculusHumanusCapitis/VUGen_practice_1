@@ -4,7 +4,7 @@ Action()
 	lr_start_transaction("UC4_ViewingTravelList");
 
 	GoToHomePage();
-
+	Login();
 	lr_start_transaction("go_to_itinerary");
 
 	web_revert_auto_header("Upgrade-Insecure-Requests");

@@ -1,7 +1,7 @@
 HTTP/1.1 200 OK
-Date: Fri, 11 Oct 2024 03:35:27 GMT
+Date: Sun, 27 Oct 2024 14:46:12 GMT
 Server: Apache/2.2.21 (Win32)
-Expires: Thu, 10 Oct 2024 03:35:27 GMT
+Expires: Sat, 26 Oct 2024 14:46:12 GMT
 Set-Cookie: MTUserInfo=firstName&Samus&username&samus&address2&Galactic%20Federation&hash&83&address1&Space%20Colony&lastName&Aran%0A; path=/
 Keep-Alive: timeout=5, max=88
 Connection: Keep-Alive

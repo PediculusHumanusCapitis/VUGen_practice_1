@@ -1,1 +1,4 @@
-"1=on&flightID=71075268-7783-MP&removeFlights.x=50&removeFlights.y=5&.cgifields=1"
+"1=on&2=on&3=on&flightID=71-7-MP&flightID=71100127-15556-MP&flightID=71083476-23470-MP&flightID"
+"=71083404-31054-MP&flightID=711055975-38875-MP&flightID=71093820-4652-MP&flightID=710844903-53"
+"9387-MP&flightID=71096377-6227-MP&removeFlights.x=50&removeFlights.y=5&.cgifields=6&.cgifields"
+"=3&.cgifields=7&.cgifields=2&.cgifields=8&.cgifields=1&.cgifields=4&.cgifields=5"

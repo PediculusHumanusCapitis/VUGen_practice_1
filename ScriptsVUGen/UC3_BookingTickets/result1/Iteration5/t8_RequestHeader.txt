@@ -14,6 +14,6 @@ Accept-Language: ru-RU,ru;q=0.8,en-US;q=0.5,en;q=0.3
 Accept: */*
 Connection: Keep-Alive
 Host: localhost:1080
-Cookie: MSO=SID&1728617643; MTUserInfo=firstName&Light&address2&Yokohama&username&light&hash&116&lastName&Yagami%0A&address1&Sakuragaoka&creditCard&&expDate&%0A
+Cookie: MSO=SID&1730040285; MTUserInfo=firstName&Light&address2&Yokohama&username&light&hash&116&lastName&Yagami%0A&address1&Sakuragaoka&creditCard&&expDate&%0A
 Content-Length: 145
 

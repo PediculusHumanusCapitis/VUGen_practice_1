@@ -14,6 +14,6 @@ Accept-Language: ru-RU,ru;q=0.8,en-US;q=0.5,en;q=0.3
 Accept: */*
 Connection: Keep-Alive
 Host: localhost:1080
-Cookie: MSO=SID&1728614092; MTUserInfo=firstName&Samus&address2&Galactic%20Federation&username&samus&hash&83&lastName&Aran%0A&address1&Space%20Colony&creditCard&&expDate&%0A
-Content-Length: 244
+Cookie: MSO=SID&1730037909; MTUserInfo=firstName&Harry&address2&Little%20Whinging&username&harrypotter&hash&82&lastName&Potter%0A&address1&Privet%20Drive&creditCard&&expDate&%0A
+Content-Length: 237
 

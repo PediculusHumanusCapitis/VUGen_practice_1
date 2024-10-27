@@ -1,1 +1,4 @@
-"1=on&flightID=52372241-7930-CS&removeFlights.x=50&removeFlights.y=5&.cgifields=1"
+"1=on&2=on&3=on&flightID=52-7-CS&flightID=52389757-15489-CS&flightID=52375560-2356-CS&flightID="
+"52383027-30994-CS&flightID=524033770-385442-CS&flightID=52382250-46510-CS&flightID=52405692-54"
+"118-CS&flightID=52373838-61786-CS&removeFlights.x=50&removeFlights.y=5&.cgifields=6&.cgifields"
+"=3&.cgifields=7&.cgifields=2&.cgifields=8&.cgifields=1&.cgifields=4&.cgifields=5"

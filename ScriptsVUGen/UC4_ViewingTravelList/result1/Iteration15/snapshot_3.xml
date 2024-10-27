@@ -1,6 +1,6 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <HTTPSnapshot xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" id="3">
-  <HTTPTask id="418" path="//localhost:1080/WebTours/header.html" url="http://localhost:1080/WebTours/header.html" origin="Primary" startDateTime="2024-10-11T06:42:51.921+04:00" startTime="19268" endTime="19268" blockedTime="0" dnsTime="0" connectTime="0" sendTime="0" waitTime="0" receiveTime="0" sslNegotiateTime="0">
+  <HTTPTask id="418" path="//localhost:1080/WebTours/header.html" url="http://localhost:1080/WebTours/header.html" origin="Primary" startDateTime="2024-10-27T18:52:31.917+04:00" startTime="21169" endTime="21169" blockedTime="0" dnsTime="0" connectTime="0" sendTime="0" waitTime="0" receiveTime="0" sslNegotiateTime="0">
     <HTTPRequest method="GET" />
     <HTTPResponse>
       <contentLenght>0</contentLenght>

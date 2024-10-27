@@ -15,6 +15,7 @@
     <FileEntry Name="globals.h" Filter="2" />
     <FileEntry Name="combined_UC5_DeletingReservation.c" Filter="2" />
     <FileEntry Name="pre_cci.c" Filter="2" />
+    <FileEntry Name="119670211440.idx" Filter="1" />
     <FileEntry Name="45157558440.idx" Filter="1" />
     <FileEntry Name="4515755844_92h.153.idx" Filter="1" />
     <FileEntry Name="4515755844_fTE.75.idx" Filter="1" />
@@ -32,6 +33,7 @@
     <FileEntry Name="options.txt" Filter="1" />
     <FileEntry Name="output.bak" Filter="1" />
     <FileEntry Name="output.txt" Filter="1" />
+    <FileEntry Name="OutputColoringDatabase.json" Filter="1" />
     <FileEntry Name="ReplaySummaryReport.xml" Filter="1" />
     <FileEntry Name="ScriptUploadMetadata.xml" Filter="1" />
     <FileEntry Name="TransactionsData.db" Filter="1" />

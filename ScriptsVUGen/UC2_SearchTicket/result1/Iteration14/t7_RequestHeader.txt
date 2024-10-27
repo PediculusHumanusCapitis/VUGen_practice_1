@@ -12,5 +12,5 @@ Accept-Language: ru-RU,ru;q=0.8,en-US;q=0.5,en;q=0.3
 Accept: */*
 Connection: Keep-Alive
 Host: localhost:1080
-Cookie: MSO=SID&1728614098; MTUserInfo=firstName&Hermione&address2&Hogwarts&username&hermione&hash&37&lastName&Granger%0A&address1&Hogsmeade&creditCard&&expDate&%0A
+Cookie: MSO=SID&1730037915; MTUserInfo=firstName&Kratos&address2&Norse%20Realms&username&kratos&hash&19&lastName&Spartan%0A&address1&Wild%20Woods&creditCard&&expDate&%0A
 

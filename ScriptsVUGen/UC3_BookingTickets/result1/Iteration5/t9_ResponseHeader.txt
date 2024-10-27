@@ -1,7 +1,7 @@
 HTTP/1.1 200 OK
-Date: Fri, 11 Oct 2024 03:34:08 GMT
+Date: Sun, 27 Oct 2024 14:44:51 GMT
 Server: Apache/2.2.21 (Win32)
-Expires: Thu, 10 Oct 2024 03:34:08 GMT
+Expires: Sat, 26 Oct 2024 14:44:51 GMT
 Set-Cookie: MTUserInfo=firstName&Light&username&light&address2&Yokohama&hash&116&address1&Sakuragaoka&lastName&Yagami%0A; path=/
 Keep-Alive: timeout=5, max=88
 Connection: Keep-Alive

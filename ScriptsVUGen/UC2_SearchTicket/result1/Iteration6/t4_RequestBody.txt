@@ -1,2 +1,2 @@
-"userSession=140025.441393277HcAcffipztVzzzzHtDcVfpDfVif&username=goku&password=kakarot&login.x"
+"userSession=140140.776832726HcAitQVpcAiDDDDDtDcfApQtHcf&username=max&password=maxpayne&login.x"
 "=41&login.y=7&JSFormSubmit=off"

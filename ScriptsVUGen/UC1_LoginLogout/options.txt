@@ -2,8 +2,8 @@
 -DCCI
 -D_IDA_XL
 -DWINNT
--ID:\VUGenPract\ScriptsVUGen\UC1_LoginLogout
--IC:\Program Files (x86)\HPE\LoadRunner\include
--ed:\vugenpract\scriptsvugen\uc1_loginlogout\\logfile.log
-d:\vugenpract\scriptsvugen\uc1_loginlogout\\combined_UC1_LoginLogout.c
-d:\vugenpract\scriptsvugen\uc1_loginlogout\\pre_cci.c
+-IC:\Users\ArtZay\Documents\GitHub\VUGen_practice_1\ScriptsVUGen\UC1_LoginLogout
+-IC:\Program Files (x86)\Micro Focus\LoadRunner\include
+-ec:\users\artzay\documents\github\vugen_practice_1\scriptsvugen\uc1_loginlogout\\logfile.log
+c:\users\artzay\documents\github\vugen_practice_1\scriptsvugen\uc1_loginlogout\\combined_UC1_LoginLogout.c
+c:\users\artzay\documents\github\vugen_practice_1\scriptsvugen\uc1_loginlogout\\pre_cci.c

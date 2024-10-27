@@ -1,2 +1,2 @@
-"userSession=140025.436776023HcAcffiptAtVzzzHtDcVfpDfAtcf&username=ellie&password=lastofus&JSFo"
-"rmSubmit=off"
+"userSession=140140.768408262HcAitQApHHftDcfApQttzf&username=neo&password=theone&JSFormSubmit=o"
+"ff"

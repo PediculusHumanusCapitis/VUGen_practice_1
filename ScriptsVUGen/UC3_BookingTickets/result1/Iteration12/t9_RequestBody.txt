@@ -1,4 +1,4 @@
-"firstName=Ellie&lastName=Williams&address1=Boston&address2=QZ&pass1=Ellie+Williams&pass2=Cloud"
-"+Strife&pass3=John+Doe&creditCard=1111222233334444&expDate=0127&oldCCOption=&numPassengers=3&s"
-"eatType=First&seatPref=None&outboundFlight=260%3B1099%3B10%2F12%2F2024&advanceDiscount=0&retur"
-"nFlight=&JSFormSubmit=off&buyFlights.x=59&buyFlights.y=12&.cgifields=saveCC"
+"firstName=Ellie&lastName=Williams&address1=Boston&address2=QZ&pass1=Ellie+Williams&pass2=Samus"
+"+Aran&pass3=Kratos+Spartan&creditCard=1111222233334444&expDate=0127&oldCCOption=&numPassengers"
+"=3&seatType=Coach&seatPref=None&outboundFlight=082%3B748%3B10%2F28%2F2024&advanceDiscount=0&re"
+"turnFlight=&JSFormSubmit=off&buyFlights.x=59&buyFlights.y=12&.cgifields=saveCC"

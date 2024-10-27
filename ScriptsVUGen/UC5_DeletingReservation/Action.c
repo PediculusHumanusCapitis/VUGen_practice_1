@@ -4,9 +4,8 @@ Action()
 	int count;
 
 	lr_start_transaction("UC5_DeletingReservation");
-
 	GoToHomePage();
-
+	Login();
 	lr_start_transaction("go_to_itinerary");
 
 	web_add_auto_header("Sec-Fetch-User", 

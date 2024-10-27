@@ -1,5 +1,5 @@
 HTTP/1.1 200 OK
-Date: Fri, 11 Oct 2024 03:35:15 GMT
+Date: Sun, 27 Oct 2024 14:45:59 GMT
 Server: Apache/2.2.21 (Win32)
 Expires: 5s
 Set-Cookie: MTUserInfo=firstName&Kratos&address2&Norse%20Realms&username&kratos&hash&19&lastName&Spartan%0A&address1&Wild%20Woods&creditCard&&expDate&%0A; path=/

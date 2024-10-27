@@ -1,1 +1,5 @@
-"1=on&flightID=128012644-7842-GS&removeFlights.x=50&removeFlights.y=5&.cgifields=1"
+"1=on&2=on&3=on&flightID=128-7-GS&flightID=128-15-GS&flightID=1280304121-23471-GS&flightID=1280"
+"103803-308938-GS&flightID=1280118936-38958-GS&flightID=128003836-46336-GS&flightID=128014459-5"
+"4000-GS&flightID=128003422-61630-GS&flightID=128013751-69365-GS&flightID=128003730-77201-GS&re"
+"moveFlights.x=50&removeFlights.y=5&.cgifields=6&.cgifields=3&.cgifields=7&.cgifields=9&.cgifie"
+"lds=2&.cgifields=8&.cgifields=1&.cgifields=4&.cgifields=10&.cgifields=5"

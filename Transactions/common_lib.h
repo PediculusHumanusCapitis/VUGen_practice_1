@@ -75,7 +75,8 @@ GoToHomePage(){
 		LAST);
 
 	lr_end_transaction("go_to_web_tours",LR_AUTO);
-
+}
+Login(){
 	lr_start_transaction("login");
     	web_reg_find("Text=Welcome, <b>{UserLogin}</b>, to the Web Tours",LAST);
 	web_add_auto_header("Origin", 

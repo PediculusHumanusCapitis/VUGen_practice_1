@@ -1,5 +1,5 @@
 HTTP/1.1 200 OK
-Date: Fri, 11 Oct 2024 03:34:48 GMT
+Date: Sun, 27 Oct 2024 14:45:32 GMT
 Server: Apache/2.2.21 (Win32)
 Expires: 5s
 Set-Cookie: MTUserInfo=firstName&Ellie&address2&QZ&username&ellie&hash&69&lastName&Williams%0A&address1&Boston&creditCard&&expDate&%0A; path=/

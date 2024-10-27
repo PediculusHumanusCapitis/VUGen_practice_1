@@ -9,7 +9,7 @@ Action()
 	lr_start_transaction("UC3_BookingTickets");
 	
 	GoToHomePage();
-	
+	Login();
 	lr_start_transaction("go_to_flights");
 	
 	web_reg_save_param_ex("ParamName=NotDefoiltCity",

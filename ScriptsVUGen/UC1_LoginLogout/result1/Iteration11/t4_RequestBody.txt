@@ -1,2 +1,2 @@
-"userSession=140025.437262049HcAcffiptcQVzzzHtDcVfpDfAfHf&username=goku&password=kakarot&JSForm"
-"Submit=off"
+"userSession=140140.768894289HcAitQApitDcfApQtti&username=geralt&password=rivia&JSFormSubmit=of"
+"f"

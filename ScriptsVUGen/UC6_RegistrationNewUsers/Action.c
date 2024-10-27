@@ -2,40 +2,7 @@ Action()
 {
 	lr_start_transaction("UC6_RegistrationNewUsers");
 
-	lr_start_transaction("go_to_web_tours");
-	
-	web_reg_find("Text=Welcome to the Web Tours site.",LAST);
-	
-	web_set_sockets_option("SSL_VERSION", "2&3");
-
-	web_add_auto_header("Sec-Fetch-Dest", 
-		"document");
-
-	web_add_auto_header("Sec-Fetch-Site", 
-		"none");
-
-	web_add_auto_header("Priority", 
-		"u=0, i");
-
-	web_add_auto_header("Sec-Fetch-Mode", 
-		"navigate");
-
-	web_add_auto_header("Sec-Fetch-User", 
-		"?1");
-
-	web_add_auto_header("Upgrade-Insecure-Requests", 
-		"1");
-
-	web_url("WebTours", 
-		"URL=http://localhost:1080/WebTours/", 
-		"Resource=0", 
-		"RecContentType=text/html", 
-		"Referer=", 
-		"Snapshot=t1.inf", 
-		"Mode=HTML", 
-		LAST);
-
-	lr_end_transaction("go_to_web_tours",LR_AUTO);
+	GoToHomePage();
 
 	lr_start_transaction("go_to_registration");
 

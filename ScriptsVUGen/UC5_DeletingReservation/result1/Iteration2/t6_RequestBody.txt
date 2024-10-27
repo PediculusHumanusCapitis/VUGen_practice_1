@@ -1,1 +1,5 @@
-"1=on&flightID=128024820-819-HP&removeFlights.x=50&removeFlights.y=5&.cgifields=1"
+"1=on&flightID=128-7-HP&flightID=128-15-HP&flightID=128009352-23319-HP&flightID=128025246-31071"
+"-HP&flightID=128026045-38553-HP&flightID=128025972-4675-HP&flightID=128001194-53937-HP&flightI"
+"D=128035250-61835-HP&flightID=128002344-6994-HP&flightID=128007537-77162-HP&removeFlights.x=50"
+"&removeFlights.y=5&.cgifields=6&.cgifields=3&.cgifields=7&.cgifields=9&.cgifields=2&.cgifields"
+"=8&.cgifields=1&.cgifields=4&.cgifields=10&.cgifields=5"

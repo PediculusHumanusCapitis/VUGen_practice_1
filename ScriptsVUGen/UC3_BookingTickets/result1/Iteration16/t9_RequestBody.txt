@@ -1,5 +1,4 @@
 "firstName=Kratos&lastName=Spartan&address1=Wild Woods&address2=Norse Realms&pass1=Kratos+Spart"
-"an&pass2=Frodo+Baggins&pass3=Frodo+Baggins&creditCard=1515151515151515&expDate=0526&oldCCOptio"
-"n=&numPassengers=3&seatType=Bisiness&seatPref=Aise&outboundFlight=183%3B1871%3B10%2F12%2F2024&"
-"advanceDiscount=0&returnFlight=&JSFormSubmit=off&buyFlights.x=59&buyFlights.y=12&.cgifields=sa"
-"veCC"
+"an&pass2=Lara+Croft&pass3=Kratos+Spartan&creditCard=1515151515151515&expDate=0526&oldCCOption="
+"&numPassengers=3&seatType=Coach&seatPref=Aise&outboundFlight=903%3B344%3B10%2F28%2F2024&advanc"
+"eDiscount=0&returnFlight=&JSFormSubmit=off&buyFlights.x=59&buyFlights.y=12&.cgifields=saveCC"

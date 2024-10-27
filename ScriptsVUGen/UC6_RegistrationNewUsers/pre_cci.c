@@ -1,5 +1,5 @@
-# 1 "d:\\vugenpract\\scriptsvugen\\uc6_registrationnewusers\\\\combined_UC6_RegistrationNewUsers.c"
-# 1 "C:\\Program Files (x86)\\HPE\\LoadRunner\\include/lrun.h" 1
+# 1 "c:\\users\\artzay\\documents\\github\\vugen_practice_1\\scriptsvugen\\uc6_registrationnewusers\\\\combined_UC6_RegistrationNewUsers.c"
+# 1 "C:\\Program Files (x86)\\Micro Focus\\LoadRunner\\include/lrun.h" 1
  
  
 
@@ -26,7 +26,7 @@
 
 
 
-# 103 "C:\\Program Files (x86)\\HPE\\LoadRunner\\include/lrun.h"
+# 103 "C:\\Program Files (x86)\\Micro Focus\\LoadRunner\\include/lrun.h"
 
 
 
@@ -187,7 +187,7 @@ int lr_generate_uuid_free(lr_uuid_t uuid);
 int lr_generate_uuid_on_buf(lr_uuid_t buf);
 
    
-# 273 "C:\\Program Files (x86)\\HPE\\LoadRunner\\include/lrun.h"
+# 273 "C:\\Program Files (x86)\\Micro Focus\\LoadRunner\\include/lrun.h"
 int lr_start_distributed_transaction  (char * transaction_name, lr_uuid_t correlator, long timeout  );
 
    
@@ -428,11 +428,11 @@ int   lr_msg (char * fmt, ...);
 int   lr_debug_message (unsigned int msg_class,
 									    char * format,
 										...);
-# 513 "C:\\Program Files (x86)\\HPE\\LoadRunner\\include/lrun.h"
+# 513 "C:\\Program Files (x86)\\Micro Focus\\LoadRunner\\include/lrun.h"
 void   lr_new_prefix (int type,
                                  char * filename,
                                  int line);
-# 516 "C:\\Program Files (x86)\\HPE\\LoadRunner\\include/lrun.h"
+# 516 "C:\\Program Files (x86)\\Micro Focus\\LoadRunner\\include/lrun.h"
 int   lr_log_message (char * fmt, ...);
 int   lr_message (char * fmt, ...);
 int   lr_error_message (char * fmt, ...);
@@ -446,7 +446,7 @@ int   lr_fail_trans_with_error (char * fmt, ...);
  
  
  
-# 540 "C:\\Program Files (x86)\\HPE\\LoadRunner\\include/lrun.h"
+# 540 "C:\\Program Files (x86)\\Micro Focus\\LoadRunner\\include/lrun.h"
 
  
  
@@ -481,7 +481,7 @@ int   lr_eval_string_ext (const char *in_str,
                                      unsigned long const options,
                                      const char *file,
 								     long const line);
-# 574 "C:\\Program Files (x86)\\HPE\\LoadRunner\\include/lrun.h"
+# 574 "C:\\Program Files (x86)\\Micro Focus\\LoadRunner\\include/lrun.h"
 void   lr_eval_string_ext_free (char * * pstr);
 
  
@@ -505,7 +505,7 @@ void   lr_eval_string_ext_free (char * * pstr);
  
 int lr_param_increment (char * dst_name,
                               char * src_name);
-# 597 "C:\\Program Files (x86)\\HPE\\LoadRunner\\include/lrun.h"
+# 597 "C:\\Program Files (x86)\\Micro Focus\\LoadRunner\\include/lrun.h"
 
 
 
@@ -530,7 +530,7 @@ int	  lr_save_var (char *              param_val,
 							  unsigned long const param_val_len,
 							  unsigned long const options,
 							  char *			  param_name);
-# 621 "C:\\Program Files (x86)\\HPE\\LoadRunner\\include/lrun.h"
+# 621 "C:\\Program Files (x86)\\Micro Focus\\LoadRunner\\include/lrun.h"
 int   lr_save_string (const char * param_val, const char * param_name);
 
 
@@ -554,7 +554,7 @@ int   lr_convert_double_to_double (const char *source_param_name, const char *fo
  
  
  
-# 700 "C:\\Program Files (x86)\\HPE\\LoadRunner\\include/lrun.h"
+# 700 "C:\\Program Files (x86)\\Micro Focus\\LoadRunner\\include/lrun.h"
 void   lr_save_datetime (const char *format, int offset, const char *name);
 
 
@@ -616,7 +616,7 @@ char * lr_table_get_cell_by_col_name (char * param_name, int row, const char* co
 int lr_table_get_column_name_by_index (char * param_name, int col, 
 											char * * const col_name,
 											size_t * col_name_len);
-# 761 "C:\\Program Files (x86)\\HPE\\LoadRunner\\include/lrun.h"
+# 761 "C:\\Program Files (x86)\\Micro Focus\\LoadRunner\\include/lrun.h"
 
 int lr_table_get_column_name_by_index_free (char * col_name);
 
@@ -624,7 +624,7 @@ int lr_table_get_column_name_by_index_free (char * col_name);
  
  
  
-# 776 "C:\\Program Files (x86)\\HPE\\LoadRunner\\include/lrun.h"
+# 776 "C:\\Program Files (x86)\\Micro Focus\\LoadRunner\\include/lrun.h"
 int   lr_zip (const char* param1, const char* param2);
 int   lr_unzip (const char* param1, const char* param2);
 
@@ -649,12 +649,12 @@ int   lr_param_substit (char * file,
                                    size_t const in_len,
                                    char * * const out_str,
                                    size_t * const out_len);
-# 800 "C:\\Program Files (x86)\\HPE\\LoadRunner\\include/lrun.h"
+# 800 "C:\\Program Files (x86)\\Micro Focus\\LoadRunner\\include/lrun.h"
 void   lr_param_substit_free (char * * pstr);
 
 
  
-# 812 "C:\\Program Files (x86)\\HPE\\LoadRunner\\include/lrun.h"
+# 812 "C:\\Program Files (x86)\\Micro Focus\\LoadRunner\\include/lrun.h"
 
 
 
@@ -663,14 +663,14 @@ void   lr_param_substit_free (char * * pstr);
 char *   lrfnc_eval_string (char * str,
                                       char * file_name,
                                       long const line_num);
-# 820 "C:\\Program Files (x86)\\HPE\\LoadRunner\\include/lrun.h"
+# 820 "C:\\Program Files (x86)\\Micro Focus\\LoadRunner\\include/lrun.h"
 
 
 int   lrfnc_save_string ( const char * param_val,
                                      const char * param_name,
                                      const char * file_name,
                                      long const line_num);
-# 826 "C:\\Program Files (x86)\\HPE\\LoadRunner\\include/lrun.h"
+# 826 "C:\\Program Files (x86)\\Micro Focus\\LoadRunner\\include/lrun.h"
 
 int   lrfnc_free_parameter (const char * param_name );
 
@@ -697,7 +697,7 @@ int lr_save_searched_string(char * buffer, long buf_size, unsigned int occurrenc
 char *   lr_string (char * str);
 
  
-# 929 "C:\\Program Files (x86)\\HPE\\LoadRunner\\include/lrun.h"
+# 929 "C:\\Program Files (x86)\\Micro Focus\\LoadRunner\\include/lrun.h"
 
 int   lr_save_value (char * param_val,
                                 unsigned long const param_val_len,
@@ -705,7 +705,7 @@ int   lr_save_value (char * param_val,
                                 char * param_name,
                                 char * file_name,
                                 long const line_num);
-# 936 "C:\\Program Files (x86)\\HPE\\LoadRunner\\include/lrun.h"
+# 936 "C:\\Program Files (x86)\\Micro Focus\\LoadRunner\\include/lrun.h"
 
 
  
@@ -728,7 +728,7 @@ int   lr_printf (char * fmt, ...);
  
 int   lr_set_debug_message (unsigned int msg_class,
                                        unsigned int swtch);
-# 958 "C:\\Program Files (x86)\\HPE\\LoadRunner\\include/lrun.h"
+# 958 "C:\\Program Files (x86)\\Micro Focus\\LoadRunner\\include/lrun.h"
 unsigned int   lr_get_debug_message (void);
 
 
@@ -758,7 +758,7 @@ int *   lr_localtime (long offset);
 int   lr_send_port (long port);
 
 
-# 1034 "C:\\Program Files (x86)\\HPE\\LoadRunner\\include/lrun.h"
+# 1034 "C:\\Program Files (x86)\\Micro Focus\\LoadRunner\\include/lrun.h"
 
 
 
@@ -776,10 +776,10 @@ void vuser_declaration (void);
 
 
 
-# 1063 "C:\\Program Files (x86)\\HPE\\LoadRunner\\include/lrun.h"
+# 1063 "C:\\Program Files (x86)\\Micro Focus\\LoadRunner\\include/lrun.h"
 
 
-# 1075 "C:\\Program Files (x86)\\HPE\\LoadRunner\\include/lrun.h"
+# 1075 "C:\\Program Files (x86)\\Micro Focus\\LoadRunner\\include/lrun.h"
 
 
 
@@ -876,8 +876,11 @@ VTCERR   vtc_create_column(PVCI pvci, char * column,unsigned short *outRc);
 VTCERR   vtc_column_size(PVCI pvci, char * column, int *size);
 void   vtc_free(char * msg);
 void   vtc_free_list(char * *msglist);
+VTCERR   vtc_update_all_message_ifequals(PVCI pvci, char * columnNames, char * message, char * ifmessage, char * delimiter, unsigned short *outRc);
 
 VTCERR   lrvtc_connect(char * servername, int portnum, int options);
+VTCERR   lrvtc_connect_ex(char * vtc_first_param, ...);
+VTCERR   lrvtc_connect_ex_no_ellipsis(const char *vtc_first_param, char ** arguments, int argCount);
 VTCERR   lrvtc_disconnect();
 VTCERR   lrvtc_query_column(char * columnName, int columnIndex);
 VTCERR   lrvtc_query_row(int columnIndex);
@@ -902,6 +905,7 @@ VTCERR   lrvtc_drop_index(char * columnName);
 VTCERR   lrvtc_clear_row(int rowIndex);
 VTCERR   lrvtc_create_column(char * columnName);
 VTCERR   lrvtc_column_size(char * columnName);
+VTCERR   lrvtc_update_all_message_ifequals(char * columnNames, char * message, char * ifmessage, char * delimiter);
 
 
 
@@ -962,9 +966,9 @@ int lr_db_getvalue(char * pFirstArg, ...);
 
 
 
-# 1 "d:\\vugenpract\\scriptsvugen\\uc6_registrationnewusers\\\\combined_UC6_RegistrationNewUsers.c" 2
+# 1 "c:\\users\\artzay\\documents\\github\\vugen_practice_1\\scriptsvugen\\uc6_registrationnewusers\\\\combined_UC6_RegistrationNewUsers.c" 2
 
-# 1 "C:\\Program Files (x86)\\HPE\\LoadRunner\\include/SharedParameter.h" 1
+# 1 "C:\\Program Files (x86)\\Micro Focus\\LoadRunner\\include/SharedParameter.h" 1
 
 
 
@@ -972,7 +976,7 @@ int lr_db_getvalue(char * pFirstArg, ...);
  
  
  
-# 100 "C:\\Program Files (x86)\\HPE\\LoadRunner\\include/SharedParameter.h"
+# 100 "C:\\Program Files (x86)\\Micro Focus\\LoadRunner\\include/SharedParameter.h"
 
 
 
@@ -1069,6 +1073,8 @@ extern void vtc_free_list(char **msglist);
  
 
 extern VTCERR2  lrvtc_connect(char *servername, int portnum, int options);
+ 
+ 
 extern VTCERR2  lrvtc_disconnect();
 extern VTCERR2  lrvtc_query_column(char *columnName, int columnIndex);
 extern VTCERR2  lrvtc_query_row(int columnIndex);
@@ -1126,7 +1132,7 @@ extern VTCERR2  lrvtc_noop();
 
 
 
-# 2 "d:\\vugenpract\\scriptsvugen\\uc6_registrationnewusers\\\\combined_UC6_RegistrationNewUsers.c" 2
+# 2 "c:\\users\\artzay\\documents\\github\\vugen_practice_1\\scriptsvugen\\uc6_registrationnewusers\\\\combined_UC6_RegistrationNewUsers.c" 2
 
 # 1 "globals.h" 1
 
@@ -1135,7 +1141,7 @@ extern VTCERR2  lrvtc_noop();
  
  
 
-# 1 "C:\\Program Files (x86)\\HPE\\LoadRunner\\include/web_api.h" 1
+# 1 "C:\\Program Files (x86)\\Micro Focus\\LoadRunner\\include/web_api.h" 1
 
 
 
@@ -1143,7 +1149,7 @@ extern VTCERR2  lrvtc_noop();
 
 
 
-# 1 "C:\\Program Files (x86)\\HPE\\LoadRunner\\include/as_web.h" 1
+# 1 "C:\\Program Files (x86)\\Micro Focus\\LoadRunner\\include/as_web.h" 1
 
 
 
@@ -1922,13 +1928,10 @@ extern VTCERR2  lrvtc_noop();
 
 
 
-# 789 "C:\\Program Files (x86)\\HPE\\LoadRunner\\include/as_web.h"
+# 789 "C:\\Program Files (x86)\\Micro Focus\\LoadRunner\\include/as_web.h"
 
 
-# 802 "C:\\Program Files (x86)\\HPE\\LoadRunner\\include/as_web.h"
-
-
-
+# 802 "C:\\Program Files (x86)\\Micro Focus\\LoadRunner\\include/as_web.h"
 
 
 
@@ -1953,7 +1956,10 @@ extern VTCERR2  lrvtc_noop();
 
 
 
-# 840 "C:\\Program Files (x86)\\HPE\\LoadRunner\\include/as_web.h"
+
+
+
+# 840 "C:\\Program Files (x86)\\Micro Focus\\LoadRunner\\include/as_web.h"
 
  
  
@@ -2000,7 +2006,7 @@ extern VTCERR2  lrvtc_noop();
 
 
 
-# 908 "C:\\Program Files (x86)\\HPE\\LoadRunner\\include/as_web.h"
+# 908 "C:\\Program Files (x86)\\Micro Focus\\LoadRunner\\include/as_web.h"
 
 
   int
@@ -2095,7 +2101,7 @@ web_stream_set_custom_mpd(
 
 
 
-# 9 "C:\\Program Files (x86)\\HPE\\LoadRunner\\include/web_api.h" 2
+# 9 "C:\\Program Files (x86)\\Micro Focus\\LoadRunner\\include/web_api.h" 2
 
 
 
@@ -2659,7 +2665,8 @@ GoToHomePage(){
 		"LAST");
 
 	lr_end_transaction("go_to_web_tours",2);
-
+}
+Login(){
 	lr_start_transaction("login");
     	web_reg_find("Text=Welcome, <b>{UserLogin}</b>, to the Web Tours","LAST");
 	web_add_auto_header("Origin", 
@@ -2720,350 +2727,22 @@ Logout(){
 
 
 
-# 3 "d:\\vugenpract\\scriptsvugen\\uc6_registrationnewusers\\\\combined_UC6_RegistrationNewUsers.c" 2
+
+# 3 "c:\\users\\artzay\\documents\\github\\vugen_practice_1\\scriptsvugen\\uc6_registrationnewusers\\\\combined_UC6_RegistrationNewUsers.c" 2
 
 # 1 "vuser_init.c" 1
 vuser_init()
 {
 	return 0;
 }
-# 4 "d:\\vugenpract\\scriptsvugen\\uc6_registrationnewusers\\\\combined_UC6_RegistrationNewUsers.c" 2
+# 4 "c:\\users\\artzay\\documents\\github\\vugen_practice_1\\scriptsvugen\\uc6_registrationnewusers\\\\combined_UC6_RegistrationNewUsers.c" 2
 
 # 1 "Action.c" 1
-# 1 "D:\\VUGenPract\\ScriptsVUGen\\UC6_RegistrationNewUsers/..\\..\\C_scripts\\generateRandParameters.c" 1
-# 1 "C:\\Program Files (x86)\\HPE\\LoadRunner\\include/string.h" 1
- 
-
-
-
-
-
-
-
-
-# 1 "C:\\Program Files (x86)\\HPE\\LoadRunner\\include/stddef.h" 1
-
-
-
-
-
-
-
-
-
-
-
-
-
-typedef unsigned int uintptr_t;
-
-
-
-
-
-
-
-
-typedef int intptr_t;
-
-
-
-
-
-
-
-
-typedef int ptrdiff_t;
-
-
-
-
-
-typedef unsigned short wchar_t;
-
-
-
-
-typedef long time_t;
-
-
-
-
-typedef long clock_t;
-
-
-
-
-typedef wchar_t wint_t;
-typedef wchar_t wctype_t;
-
-
-
-
-typedef char *	va_list;
-
-
-
- 
-
-
-
-
-
-# 10 "C:\\Program Files (x86)\\HPE\\LoadRunner\\include/string.h" 2
-
-
-
-
-
-
-
-
-
-
-void *	 memchr(const void *, int, size_t);
-int 	 memcmp(const void *, const void *, size_t);
-void * 	 memcpy(void *, const void *, size_t);
-void *	 memmove(void *, const void *, size_t);
-void *	 memset(void *, int, size_t);
-
-char 	*strcat(char *, const char *);
-char 	*strchr(const char *, int);
-int	 strcmp(const char *, const char *);
-int	 strcoll(const char *, const char *);
-char 	*strcpy(char *, const char *);
-size_t	 strcspn(const char *, const char *);
-char 	*strerror(int);
-size_t	 strlen(const char *);
-char 	*strncat(char *, const char *, size_t);
-int	 strncmp(const char *, const char *, size_t);
-char 	*strncpy(char *, const char *, size_t);
-char 	*strpbrk(const char *, const char *);
-char 	*strrchr(const char *, int);
-size_t	 strspn(const char *, const char *);
-char 	*strstr(const char *, const char *);
-char 	*strtok(char *, const char *);
-
-void *	 memccpy(void *, const void *, int, size_t);
-int	 strcmpi(const char *, const char *);
-char 	*strdup(const char *);
-int	 strnicmp(const char *, const char *, size_t);
-void	 swab(const char *, char *, size_t);
-
-# 1 "D:\\VUGenPract\\ScriptsVUGen\\UC6_RegistrationNewUsers/..\\..\\C_scripts\\generateRandParameters.c" 2
-
-# 1 "C:\\Program Files (x86)\\HPE\\LoadRunner\\include/stdlib.h" 1
- 
-
-
-
-
-
-# 1 "C:\\Program Files (x86)\\HPE\\LoadRunner\\include/stddef.h" 1
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
- 
-
-
-
-
-
-# 7 "C:\\Program Files (x86)\\HPE\\LoadRunner\\include/stdlib.h" 2
-
-typedef struct
-{
-  int quot;  
-  int rem;  
-} div_t;
-
-typedef struct
-{
-  long quot;  
-  long rem;  
-} ldiv_t;
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-void	abort(void);
-int	abs(int);
-double	atof(const char *_nptr);
-int	atoi(const char *_nptr);
-long	atol(const char *_nptr);
-void *	bsearch(const void * _key,
-		       const void * _base,
-		       size_t _nmemb,
-		       size_t _size,
-		       int (*_compar)(const void *, const void *));
-void *	calloc(size_t _nmemb, size_t _size);
-div_t	div(int _numer, int _denom);
-void	exit(int _status);
-void	free(void *);
-char *  getenv(const char *_string);
-long	labs(long);
-ldiv_t	ldiv(long _numer, long _denom);
-void *	malloc(size_t _size);
-void	qsort(void * _base, size_t _nmemb, size_t _size, int(*_compar)(const void *, const void *));
-int	rand(void);
-void *	realloc(void * _r, size_t _size);
-void	srand(unsigned _seed);
-double	strtod(const char *_n, char **_endvoid);
-long	strtol(const char *_n, char **_endvoid, int _base);
-unsigned long strtoul(const char *_n, char **_end, int _base);
-int	system(const char *_string);
-
-int	putenv(const char *_string);
-
-char *	_gcvt(double,int,char *);
-char *	_fcvt(double,int,int *,int *);
-char *	_ecvt(double,int,int *,int *);
-
-
-# 2 "D:\\VUGenPract\\ScriptsVUGen\\UC6_RegistrationNewUsers/..\\..\\C_scripts\\generateRandParameters.c" 2
-
-
-int i;
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
-
-void generate_alpha_string(char* output, int length) {
-    const char alphabet[] = "abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ";
-    int alpha_len = strlen(alphabet);
-
-    for (i = 0; i < length; i++) {
-        output[i] = alphabet[rand() % alpha_len];
-    }
-    output[length] = '\0';   
-}
-# 1 "Action.c" 2
-
-
 Action()
 {
-	char UserLogin[15]; 
-    char UserPassword[15]; 
-    char FirstName[15]; 
-    char LastName[15];
-    char Street[40]; 
-    char City[40];
-    
-
 	lr_start_transaction("UC6_RegistrationNewUsers");
 
-	lr_start_transaction("go_to_web_tours");
-	
-	web_reg_find("Text=Welcome to the Web Tours site.","LAST");
-	
-	web_set_sockets_option("SSL_VERSION", "2&3");
-
-	web_add_auto_header("Sec-Fetch-Dest", 
-		"document");
-
-	web_add_auto_header("Sec-Fetch-Site", 
-		"none");
-
-	web_add_auto_header("Priority", 
-		"u=0, i");
-
-	web_add_auto_header("Sec-Fetch-Mode", 
-		"navigate");
-
-	web_add_auto_header("Sec-Fetch-User", 
-		"?1");
-
-	web_add_auto_header("Upgrade-Insecure-Requests", 
-		"1");
-
-	web_url("WebTours", 
-		"URL=http://localhost:1080/WebTours/", 
-		"Resource=0", 
-		"RecContentType=text/html", 
-		"Referer=", 
-		"Snapshot=t1.inf", 
-		"Mode=HTML", 
-		"LAST");
-
-	lr_end_transaction("go_to_web_tours",2);
+	GoToHomePage();
 
 	lr_start_transaction("go_to_registration");
 
@@ -3093,20 +2772,6 @@ Action()
 	lr_end_transaction("go_to_registration",2);
 
 	lr_start_transaction("user_data_entry");
-	
-	generate_alpha_string(UserLogin, 14);
-    generate_alpha_string(UserPassword, 14);
-    generate_alpha_string(FirstName, 14);
-    generate_alpha_string(LastName, 14);
-    generate_alpha_string(Street, 39);
-    generate_alpha_string(City, 39);
-
-    lr_save_string(UserLogin, "UserLogin");
-    lr_save_string(UserPassword, "UserPassword");
-    lr_save_string(FirstName, "FirstName");
-    lr_save_string(LastName, "LastName");
-    lr_save_string(Street, "Street");
-    lr_save_string(City, "City");
 
 	web_add_header("Origin", 
 		"http://localhost:1080");
@@ -3157,12 +2822,12 @@ Action()
 
 	return 0;
 }
-# 5 "d:\\vugenpract\\scriptsvugen\\uc6_registrationnewusers\\\\combined_UC6_RegistrationNewUsers.c" 2
+# 5 "c:\\users\\artzay\\documents\\github\\vugen_practice_1\\scriptsvugen\\uc6_registrationnewusers\\\\combined_UC6_RegistrationNewUsers.c" 2
 
 # 1 "vuser_end.c" 1
 vuser_end()
 {
 	return 0;
 }
-# 6 "d:\\vugenpract\\scriptsvugen\\uc6_registrationnewusers\\\\combined_UC6_RegistrationNewUsers.c" 2
+# 6 "c:\\users\\artzay\\documents\\github\\vugen_practice_1\\scriptsvugen\\uc6_registrationnewusers\\\\combined_UC6_RegistrationNewUsers.c" 2
 

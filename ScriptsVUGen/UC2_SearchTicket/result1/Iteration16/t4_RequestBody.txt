@@ -1,2 +1,2 @@
-"userSession=140025.44382341HcAcffipHzzzzzzHtDcVfpDfcz&username=kratos&password=godofwar&login."
-"x=41&login.y=7&JSFormSubmit=off"
+"userSession=140140.779424868HcAitQVpDtVzzzzHtDcfApQtiAf&username=frodo&password=ringbearer&log"
+"in.x=41&login.y=7&JSFormSubmit=off"

@@ -6,6 +6,7 @@ Action()
 	lr_start_transaction("UC2_SearchTicket");
 	
 	GoToHomePage();
+	Login();
 
 	lr_start_transaction("go_to_flights");
 	
@@ -53,11 +54,12 @@ Action()
             lr_param_sprintf("AllCities", "%s,%s", lr_eval_string("{AllCities}"), currentCity);
         }
 	}
-	lr_save_param_regexp(lr_eval_string("{AllCities}"),
-	                     strlen(lr_eval_string("{AllCities}")),
-	                     "Ordinal=All",
-	                     "ResultParam=CityArray",
-	                     LAST);
+lr_save_param_regexp(lr_eval_string("{AllCities}"),
+                     strlen(lr_eval_string("{AllCities}")),
+                     "RegExp=([^,]+)", // ƒобавлен аргумент RegExp дл€ поиска городов
+                     "Ordinal=All",
+                     "ResultParam=CityArray",
+                     LAST);
 
 	lr_save_string(lr_paramarr_random("CityArray"),"DepartureCity");
 	

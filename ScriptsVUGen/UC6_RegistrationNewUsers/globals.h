@@ -11,4 +11,5 @@
 // Global Variables
 #include "..\..\Transactions\common_lib.h"
 
+
 #endif // _GLOBALS_H

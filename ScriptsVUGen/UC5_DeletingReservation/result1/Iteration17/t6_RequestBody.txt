@@ -1,1 +1,4 @@
-"1=on&flightID=59854117-7775-SA&removeFlights.x=50&removeFlights.y=5&.cgifields=1"
+"1=on&2=on&flightID=59-7-SA&flightID=59857419-15483-SA&flightID=59856796-23192-SA&flightID=5985"
+"2722-30968-SA&flightID=59867913-38668-SA&flightID=59852713-46281-SA&flightID=59860784-53929-SA"
+"&flightID=59873735-61738-SA&removeFlights.x=50&removeFlights.y=5&.cgifields=6&.cgifields=3&.cg"
+"ifields=7&.cgifields=2&.cgifields=8&.cgifields=1&.cgifields=4&.cgifields=5"

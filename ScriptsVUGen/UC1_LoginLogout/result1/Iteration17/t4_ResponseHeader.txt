@@ -1,8 +1,8 @@
 HTTP/1.1 200 OK
-Date: Fri, 11 Oct 2024 02:33:53 GMT
+Date: Sun, 27 Oct 2024 14:03:23 GMT
 Server: Apache/2.2.21 (Win32)
 Expires: 5s
-Set-Cookie: MTUserInfo=firstName&Kratos&address2&Norse%20Realms&username&kratos&hash&19&lastName&Spartan%0A&address1&Wild%20Woods&creditCard&&expDate&%0A; path=/
+Set-Cookie: MTUserInfo=firstName&Hermione&address2&Hogwarts&username&hermione&hash&37&lastName&Granger%0A&address1&Hogsmeade&creditCard&&expDate&%0A; path=/
 Keep-Alive: timeout=5, max=96
 Connection: Keep-Alive
 Transfer-Encoding: chunked

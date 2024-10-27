@@ -1,3 +1,0 @@
-"username=UXmLxGSADBmdtG&password=cHUMKrMSgXRabF&passwordConfirm=cHUMKrMSgXRabF&firstName=NhQgC"
-"TWNStJXDx&lastName=PLwhTLnoLslKqh&address1=zizGuVldVInPJGqatbsOocjewErwkzknINTMPRC&address2=Dd"
-"yzQbJBOTYlaUXQrChosCCMCkafgcMYcmgjdaa&register.x=58&register.y=3"
